@@ -1,3 +1,5 @@
+package Test1;
+
 public class wordsCount {
 
     private String[] wordsCount = new String[]{"a", "bb", "b", "ccc"};
